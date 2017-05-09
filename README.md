@@ -1,5 +1,10 @@
 # README
 
+######IGNORE commit note, this project is not in bitbucket or anywhere else.
+This is a short blog project I done following from http://guides.rubyonrails.org/getting_started.html
+################JAMESREDUX###############
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
